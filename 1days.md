@@ -35,7 +35,9 @@
 > `
 > > 문자열 분활/부분-삭제
 > > > substr
-> > > 
+> > > This is a normal paragraph:
+> > >    This is a code block.
+> > > end code block.
 > > > `
 > > > This is a normal paragraph:
 
