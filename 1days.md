@@ -28,7 +28,7 @@
 
 # 신기한거 
 
-![map?](C:\Users\USER\git\iamges\map_problem.PNG)
+![map?](./iamges/map_problem.PNG)
 
 이 map은 안에 자기 원소를 가르키는 변수도 없는데 연관되어있는거<br>없는거 다 자기로 바꿔서 자기 먹고 저런결과 나오드라?
 
