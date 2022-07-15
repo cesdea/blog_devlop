@@ -23,7 +23,7 @@
   
    + 매일쓰기
    
-   + 나는 알아보기
+   + 나만은 알아보기
    
 ---------------------------------
 <a href='https://github.com/cesdea/blog_devlop/blob/main/1days.md'>1일차</a> 2일차
