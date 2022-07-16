@@ -30,9 +30,4 @@
    + 체중 감량
    
 ---------------------------------
-<<<<<<< HEAD
-<a href='https://github.com/cesdea/blog_devlop/blob/main/1days.md'>1일차</a> 2일차
-=======
-### <a href='./1days.md'>1일차</a> 
- 
->>>>>>> 8bd3cbfda2bdcf8b3fb3f0187f5db54bd4b67850
+### <a href='./1days.md'>1일차</a>  <a href='./2days.md'>2일차</a>
