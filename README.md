@@ -30,4 +30,6 @@
    + 체중 감량
    
 ---------------------------------
-### <a href='./1days.md'>1일차</a>  <a href='./2days.md'>2일차</a>
+### <a href='.\days\1days.md'>1일차</a>  
+### <a href='.\days\2days.md'>2일차</a> 
+### <a href='.\days\3days.md'>3일차</a> 
