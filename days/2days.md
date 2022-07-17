@@ -45,7 +45,7 @@
 
 # 신기한거  
 
-![map?](.\images\map_index_problem.PNG){: width="300" height="300")
+![map?](./images/map_index_problem.PNG){: width="300" height="300")
 
 ` 뒤편에 map에서 i가 0에서 고정되서는 저렇게 모든 문자열이 바뀌는 현상이 이러남?`
 
