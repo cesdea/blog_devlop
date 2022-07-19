@@ -48,11 +48,11 @@ end code block.
 
 # 신기한거  
 
-![map?](./images/map_problem.PNG){: width="300" height="300")
+![map?](../images/map_problem.PNG){: width="300" height="300")
 
 ` 이 map은 안에 자기 원소를 가르키는 변수도 없는데 연관되어있는거<br>없는거 다 자기로 바꿔서 자기 먹고 저런결과 나오드라?`
 
- ![map2?](./images/map_problem2.png){: width="300" height="300")
+ ![map2?](../images/map_problem2.png){: width="300" height="300")
 
  ` 이게 신기한게 뭐냐면 안에 변수도 값도 없는데 1,2,3,4가 나와있음 ` 
  
