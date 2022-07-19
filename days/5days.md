@@ -8,6 +8,10 @@
 # 프로그래머스 
 <a href='https://school.programmers.co.kr/'>이동</a>
 
+# leetcode
+해외 코드 문제
+<a href=' https://leetcode.com/'>이동</a>
+
 # 운동
 + ... 안했다 ...
 + 내일 계획
@@ -16,7 +20,6 @@
   + 닭가슴살 주문
 
 # JS
-+ 해외 코드 공부 사이트 https://leetcode.com/
 + 구조분해할당
     + 변수와 메소드를 분리하여 사용한다. 
 + 객체리터럴
