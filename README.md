@@ -35,3 +35,7 @@
 ------------------------------------- 
 # Weeks
 ### <a href='.\weeks\1weeks.md'>1주차</a>
+______________________
+# HomeWork
+호이스팅 TDZ 스코프 객체 불변성 동적언어 
+=> ###<a href='.\study\NodeStudy.md'> Node 공부1</a>
