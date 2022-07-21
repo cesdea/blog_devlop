@@ -19,7 +19,7 @@
   + 닭가슴살 주문
 
 # JS
-+ <a href='study\NodeStudy.md'>NodeStudy</a>
++ <a href='.\study\NodeStudy.md'>NodeStudy</a>
 + N ** M= Math.pow(N,M)
 
 _______
