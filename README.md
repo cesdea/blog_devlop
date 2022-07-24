@@ -34,7 +34,7 @@
 ## <a href='.\days\Ndays.md'>N일차</a>  
 ------------------------------------- 
 # Weeks
-### <a href='.\weeks\1weeks.md'>1주차</a>
+### <a href='.\weeks\1weeks.md'>1주차</a> <a href='.\weeks\2weeks.md'></a>
 ______________________
 # HomeWork
 호이스팅 TDZ 스코프 객체 불변성 동적언어 
